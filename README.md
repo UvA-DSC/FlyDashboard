@@ -1,6 +1,6 @@
 # FlyDashboard
 
-The goal of this project is to create a simple dashboard from a set of 500 tweets about flying and climate change.
+The goal of this project is to create a simple [dashboard](https://www.tableau.com/learn/articles/dashboards/what-is) from a set of 500 tweets about flying and climate change.
 
 Each tweet has the following 18 fields:
 
