@@ -30,4 +30,6 @@ One option is to use Jupyter Dashboards, you can read all about it [here](https:
 ## Notes
 Please feel free to process the data as needed, including creating new columns that you think would be interesting to visualize.
 
+More about [pandas](https://pandas.pydata.org/) and [Jupyter](https://jupyter.org/)
+
 ## Happy dashboarding!
